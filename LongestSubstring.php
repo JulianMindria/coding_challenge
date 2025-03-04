@@ -19,7 +19,6 @@ function lengthOfLongestSubstring($s) {
     return $maxLength;
 }
 
-// Example test cases
 echo "Length of longest substring: " . lengthOfLongestSubstring("abcabcbb") . "\n"; 
 echo "Length of longest substring: " . lengthOfLongestSubstring("bbbbb") . "\n";  
 echo "Length of longest substring: " . lengthOfLongestSubstring("pwwkew") . "\n";  
